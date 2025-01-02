@@ -50,7 +50,7 @@ experience:
   enable: true
   button:
     icon: "icon-linkedin"
-    url: "https://www.linkedin.com/in/freya-laluna/"
+    url: "https://www.linkedin.com/in/freya-laluna"
   button2:
     icon: "icon-file-pdf"
     url: "/freya-tech-resume.pdf"
