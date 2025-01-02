@@ -10,6 +10,7 @@
     "tinacms": "^2.5.2"
   },
   "script": {
-    "tinacms": "tinacms"
+    "tinacms": "tinacms",
+    "build": "tinacms build"
   }
 }
