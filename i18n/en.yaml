@@ -1,0 +1,165 @@
+## Header
+# - id: "logo_text1"
+#   translation: "Freya LaLuna"
+
+- id: "logo_text2"
+  translation: "Freya LaLuna"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+
+- id: "language"
+  translation: "Language"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+
+- id: "head_description"
+  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Hello, I’m Freya!"
+
+- id: "showcase_subtitle"
+  translation: "Full Stack Developer"
+
+- id: "showcase_description"
+  translation: "The world of tech is vast, and I'm trying my best to learn and grow as much as I can. As a recent graduate, I've learned the hard way just how much room I still have left to improve, and I intend to do just that for the rest of my career.
+  The principles of my education were grounded in backend development, but that hasn't stopped me from staying curious and branching out to bolster areas I know I'm weak in."
+
+- id: "showcase_button"
+  translation: "Contact"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "A casual picture of Freya LaLuna in a white hoodie and a black beanie."
+
+## Homepage about
+- id: "about_title"
+  translation: "Who am I?"
+
+- id: "about_content"
+  translation:  <p class="lead">
+      Though I'm a software engineer by trade, I have a deep love of the social sciences and philosophy. 
+      I believe that everyone brings something unique to a team from their own lived experience, and encouraging people to 
+      bring that experience to the table is how teams can flourish.
+      </p>
+      <p class="lead">
+      During my undergrad, I spent the brunt of my time learning in C and C++. Though tumultuous at first, this gave me a strong understanding
+      of the underlying processes that let computers work their magic. From there, I branched out into object-oriented programming and web development,
+      getting firsthand experience working on full-stack applications. Here is where I started to find my love of API design and network computing,
+      which was further solidified when I began working on the Firefox browser's Reporting API under the guidance of my mentors at Mozilla. I can't put my
+      finger on why exactly, but the ways we as developers design systems to communicate with each other is fascinating, and it's one of the primary focuses of my current bout of self-guided learning.
+      </p>
+
+- id: "about_button"
+  translation: "About Me"
+
+## Homepage education
+- id: "education_title"
+  translation: "Education"
+
+## Homepage experience
+- id: "experience_title"
+  translation: "Experience"
+
+- id: "experience_description"
+  translation: "After graduating near the top of my class in 2023, I interned at Mozilla through a program called Outreachy! You can learn more about my experience 
+    working as an intern there by clicking on the title on the left! Though I'm still rather green in terms of overall experience, I've used my internship at Mozilla as a springboard to further 
+    my understanding of API design and network programming. I've also taken an interest in learning the ins-and-outs of .NET! 
+    You can find out more about what I've been working on in the Projects section!"
+
+- id: "experience_button"
+  translation: "LinkedIn" 
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/freya-laluna/"
+
+- id: "experience_button2"
+  translation: "Download resume"
+
+- id: "experience_button2_url"
+  translation: "/freya-tech-resume.pdf"
+
+- id: "experience_button3"
+  translation: "View all"
+
+- id: "experience_button3_url"
+  translation: "/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Clients & Work"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Newsletter"
+
+- id: "newsletter_button"
+  translation: "Subscribe"
+
+- id: "newsletter_placeholder"
+  translation: "Your email"
+
+- id: "newsletter_success_message"
+  translation: "Thank you for subscribing to my newsletter!"
+
+- id: "newsletter_error_message"
+  translation: "An error occurred. Please try again."
+
+- id: "newsletter_note"
+  translation: "We'll never share your email with anyone else."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Contact"
+
+- id: "contact_button"
+  translation: "Send message"
+
+- id: "contact_form_name"
+  translation: "Full Name"
+
+- id: "contact_form_email"
+  translation: "Email Address"
+
+- id: "contact_form_message"
+  translation: "Type Your Message Here"
+
+- id: "contact_phone_title"
+  translation: "Phone Number"
+
+- id: "contact_phone_number"
+  translation: "+555 (11) 123 44 55"
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:mail@example.com">mail@example.com</a>'
+
+- id: "contact_address_title"
+  translation: "Address"
+
+- id: "contact_address_address"
+  translation: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
+
+- id: "contact_button"
+  translation: "Send Message"
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: "Published en"
+
+- id: "continue_reading"
+  translation: "Continue reading"

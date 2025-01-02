@@ -1,0 +1,78 @@
+## Looking for strings? Check the i18n folder.
+
+# showcase
+showcase:
+  enable: true
+  image:
+    x: "images/showcase/Freya.jpg"
+    _2x: "images/showcase/Freya.jpg"
+  imageMobile:
+    x: "images/showcase/Freya.jpg"
+
+  button:
+    icon: "icon-email"
+    URL: "mailto:freyalaluan@outlook.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/freya-laluna/"
+
+    - icon: "square-github"
+      URL: "https://github.com/freyalaluna"
+
+    - icon: "bluesky"
+      URL: "https://bsky.app/profile/freyacassandra.bsky.social"
+# about
+about:
+  enable: true
+  button:
+    icon: "icon-user"
+    URL: "https://www.linkedin.com/in/freya-laluna/"
+  image:
+    x: "images/showcase/Garden_Of_Lights_2023.jpg"
+    _2x: "images/showcase/Garden_Of_Lights_2023.jpg"
+
+# education
+education:
+  enable: true
+  items:
+    - university: "Colorado State University"
+      year: "2021-2023"
+      degree: "Bachelor of Science in Computer Science (Completed)"
+
+    - university: "Colorado School of Mines"
+      year: "2017-2020"
+      degree: "Bachelor of Science in Computer Science (Started)"
+
+# experience
+## to hiden a button, set the icon to an empty string
+experience:
+  enable: true
+  button:
+    icon: "icon-linkedin"
+    url: "https://www.linkedin.com/in/freya-laluna/"
+  button2:
+    icon: "icon-file-pdf"
+    url: "/freya-tech-resume.pdf"
+  button3:
+    icon: "icon-cloud-arrow-down"
+
+# Client & Work
+client_and_work:
+  enable: false
+
+# testimonial
+testimonial:
+  enable: false
+
+# contact
+contact:
+  enable: false
+  form:
+    action: "#"
+  button:
+    icon: "icon-email"
+
+# newsletter
+newsletter:
+  enable: false

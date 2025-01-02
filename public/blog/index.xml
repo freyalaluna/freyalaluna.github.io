@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Dec 2024 07:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post!</title>
+      <link>http://localhost:1313/blog/hello-world/</link>
+      <pubDate>Sun, 15 Dec 2024 07:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <description>&lt;h4 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h4&gt;&#xA;&lt;p&gt;My name is Freya LaLuna, nice to meet you! I&amp;rsquo;m a junior developer with an interest in all things backend, database, and networking.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently waiting in the wings to be hired on to a yet-to-be-announced project as a junior full-stack developer. With our current start date estimate having been shifted back to sometime in early April of next year, it&amp;rsquo;s really started to weigh on me that that&amp;rsquo;s a long time to be waiting and doing nothing. However, if I reframe that thought, I&amp;rsquo;ve realized that this is maybe the densest period of free time I&amp;rsquo;ll have in the next few years of my life. Doing nothing, or otherwise riding out this wait would absolutely squander the four whole months I&amp;rsquo;ll have to work on the personal projects and self-guided learning that I likely won&amp;rsquo;t have the time to do once I&amp;rsquo;m fully employed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

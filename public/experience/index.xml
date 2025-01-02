@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 07:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Backend Development Intern</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Wed, 01 Jan 2025 07:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;my-first-job-as-a-software-developer&#34;&gt;My first job as a software developer&lt;/h3&gt;&#xA;&lt;p&gt;After I graduated in the Spring of 2023, I was recommended to apply to a program called &lt;a href=&#34;https://www.outreachy.org/&#34;&gt;Outreachy&lt;/a&gt; by one of my peers. The program seeks to give burgeoning developers from marginalized backgrounds a chance to get experience through the realm of Open-Source Software. After several months of working on my application and contributing to the Firefox backend, I was chosen as one of five interns to work at Mozilla under the direct guidance of two Principle developers there.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
