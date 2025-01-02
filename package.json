@@ -9,7 +9,7 @@
   "dependencies": {
     "tinacms": "^2.5.2"
   },
-  "script": {
+  "scripts": {
     "tinacms": "tinacms",
     "build": "tinacms build"
   }
