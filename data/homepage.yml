@@ -13,15 +13,15 @@ showcase:
     icon: "icon-email"
     URL: "mailto:freyalaluan@outlook.com"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/freya-laluna/"
+  # socialLinks:
+  #   - icon: "linkedin"
+  #     URL: "https://www.linkedin.com/in/freya-laluna/"
 
-    - icon: "square-github"
-      URL: "https://github.com/freyalaluna"
+  #   - icon: "square-github"
+  #     URL: "https://github.com/freyalaluna"
 
-    - icon: "bluesky"
-      URL: "https://bsky.app/profile/freyacassandra.bsky.social"
+  #   - icon: "bluesky"
+  #     URL: "https://bsky.app/profile/freyacassandra.bsky.social"
 # about
 about:
   enable: true

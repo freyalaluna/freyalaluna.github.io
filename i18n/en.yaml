@@ -24,7 +24,7 @@
   translation: "Hello, I’m Freya!"
 
 - id: "showcase_subtitle"
-  translation: "Full Stack Developer"
+  translation: "Junior Backend Developer"
 
 - id: "showcase_description"
   translation: "The world of tech is vast, and I'm trying my best to learn and grow as much as I can. As a recent graduate, I've learned the hard way just how much room I still have left to improve, and I intend to do just that for the rest of my career.
@@ -143,7 +143,7 @@
   translation: "Email"
 
 - id: "contact_email_email"
-  translation: '<a href="mailto:mail@example.com">mail@example.com</a>'
+  translation: '<a href="mailto:freyalaluna@outlook.com">freyalaluna@outlook.com</a>'
 
 - id: "contact_address_title"
   translation: "Address"

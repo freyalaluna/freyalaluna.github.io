@@ -1,10 +1,10 @@
 ---
 draft: false
-jobTitle: Firefox Backend Development Intern
+jobTitle: Mozilla Open-Source Intern
 company: Outreachy
 location: 'Fort Collins, CO'
 duration: Nov. 2023 - Mar. 2024
-title: Firefox Backend Development Intern
+title: Mozilla Open-Source Intern
 date: 2025-01-01T07:00:00.000Z
 ---
 

@@ -19,7 +19,7 @@ theme = "adritian-free-hugo-theme"
       
       [[languages.en.menus.header]]
         name = "Experience"
-        URL = "#experience"
+        URL = "/experience"
         weight = 3
 
       [[languages.en.menus.header]]
@@ -44,7 +44,7 @@ theme = "adritian-free-hugo-theme"
         
       [[languages.en.menus.footer]]
         name = "Experience"
-        URL = "#experience"
+        URL = "/experience"
         weight = 3
 
       [[languages.en.menus.footer]]
